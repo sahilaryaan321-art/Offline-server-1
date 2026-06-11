@@ -1,2 +1,2 @@
-# Offline-server-1
-A simple Bot chat messenger using personal account. Made by NTKhang.
+# CONVO-DEVIL
+THIS SERVER MADE BY MR DEVIL420 FOR MASEENGER FYT
